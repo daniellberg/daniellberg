@@ -998,6 +998,51 @@ section .title::before{
   height: 240px;
 }
 
+/* download do cv*/
+
+.download{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0 0 0;
+}
+
+.download span{
+  /* border: solid 1px #1e1e1e; */
+  border-radius: 20px;
+  padding: 10px 15px;
+  background-color: #0062d3;
+  color: #eee
+}
+
+.download span:hover{
+  background-color: #298eff;
+  /* border: solid 1px #4e4e4e; */
+  color: #eee;
+  transition: all ease-in .25s;
+}
+
+.download a{
+  border: solid 1px #eee;
+  border-radius: 100px;
+  padding: 5px;
+  font-size: 500;
+  margin-left: 1rem;
+}
+
+.download a:hover{
+  transition: all ease-in .25s;
+  background-color: #013877;
+  color: #eee;
+  border: none;
+}
+
+.download a i{
+  color: #eee;
+  padding: 10px 20px;
+}
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/

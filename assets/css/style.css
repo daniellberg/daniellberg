@@ -987,6 +987,12 @@ section .title::before{
   border-radius: 30px;
 }
 
+.exp-cont img{
+  width: 150px !important;
+  height: 150px !important;
+  object-fit: cover;
+}
+
 .hero .hero-subtitle .typing{
   background: linear-gradient(90deg,#509ede,#0062d3);
   -webkit-background-clip: text;
@@ -1007,21 +1013,6 @@ section .title::before{
   padding: 2rem 0 0 0;
 }
 
-.download span{
-  /* border: solid 1px #1e1e1e; */
-  border-radius: 20px;
-  padding: 10px 15px;
-  background-color: #0062d3;
-  color: #eee
-}
-
-.download span:hover{
-  background-color: #298eff;
-  /* border: solid 1px #4e4e4e; */
-  color: #eee;
-  transition: all ease-in .25s;
-}
-
 .download a{
   border: solid 1px #eee;
   border-radius: 100px;
@@ -1030,18 +1021,14 @@ section .title::before{
   margin-left: 1rem;
 }
 
-.download a:hover{
-  transition: all ease-in .25s;
-  background-color: #013877;
-  color: #eee;
-  border: none;
-}
-
 .download a i{
   color: #eee;
   padding: 10px 20px;
 }
 
+.colorbtn{
+  background-color: #0062d3;
+}
 
 /*--------------------------------------------------------------
 # Testimonials
@@ -1169,8 +1156,31 @@ footer .credits a {
   color: #fff;
 }
 
-/* .socials li i{
+.links-social{
+  list-style: none;
   display: flex;
+  align-items: center;
   justify-content: center;
-  align-items: end;
-} */
+  margin: 1rem 0 3rem 0;
+}
+.links-social li{
+  margin: 0 10px;
+}
+.links-social a{
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 12px;
+  border-radius: 100%;
+}
+.links-social a i{
+  font-size: 1.1rem;
+  width: 20px;
+  transition: color .4s ease;
+}
+.links-social a:hover i{
+  color: #1e1e1e;
+}
+
+.copyright-box{
+  transform: translateY(-20px);
+}

@@ -13,11 +13,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> <br>
 
+<h2>Hi, there!<br>My name is Daniel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h2>
 
-<h1>
-  Olá, eu me chamo Daniel!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
+
+<div class="gif-hero" align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
 </div>
+
+---

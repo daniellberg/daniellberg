@@ -833,6 +833,14 @@ section .title::before{
   text-align: justify;
 }
 
+.about-mf .choose-skills{
+  margin-bottom: 20px;
+}
+
+.choose-skills .soft{
+  margin-left: 10px;
+}
+
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;

@@ -9,12 +9,9 @@
   <a href="https://www.youtube.com/channel/UCm9uZ9v7uYDnfSOrgflHeBw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitter.com/hardxsttolove">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a><br>
   <a href="https://open.spotify.com/user/brokencraft?si=3030ca7db8d14a57">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a>
+  </a><br>
   <a href="https://www.freecodecamp.org/ydanielberg">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCode Camp Badge"/>
   </a>

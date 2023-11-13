@@ -18,7 +18,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=daniellberg&style=flat-square&color=blue" alt=""/> <br>
 
-<h2>Hi, there!<br>My name is Daniel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2>
+<h2>Hi, there!<br>My name is Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2>
 
 ---
 
@@ -40,4 +40,11 @@
     <img align="center" alt="Flutter" height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
+<br>
+  <div align="center">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=daniellberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
 </div>

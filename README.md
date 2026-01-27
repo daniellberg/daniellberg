@@ -4,12 +4,12 @@
 
 <h2>Hi, there!<br>My name is Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2>
 
----
+<!-----
 
-<!-- <div align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
-</div> -->
+ <div align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
+</div> 
 
----
+----->
 </>
 
  <div style="display: inline_block"><br>

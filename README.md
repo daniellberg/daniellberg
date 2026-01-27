@@ -6,8 +6,8 @@
 
 ---
 
-<div align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
-</div>
+<!-- <div align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
+</div> -->
 
 ---
 </>

@@ -16,6 +16,7 @@
     <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Next.js" height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="center" alt="Unreal" height="30" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
     <br>
   </div>
 </div>
@@ -25,9 +26,6 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/a81698e9d16ede15630362faeb77afd0/80e668ae16cd7e4e-b7/s1280x1920/e3dffa8b5a2ef5c5525246b49555ce39b9cc1ca6.gif" alt="spirited away gif" width=600>
 </div>
-
-
----
 
 <h2>Find me here!
 <br>

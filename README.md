@@ -1,14 +1,12 @@
 
 
 <div id="badges" align="center">
-
-<h2>Hi, there!<br>My name is Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2>
-
-<h3>Find me here! <img align="center" alt="Last fm" height="30" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)">
-
-
- <div align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
-</div> 
+ 
+<h2>Hi, there!<br>
+ My name is Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2>
+ <h3>Find me here! <img align="center" alt="Last fm" height="30" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></h3>
+ <div align="center"> <img src="https://64.media.tumblr.com/a81698e9d16ede15630362faeb77afd0/80e668ae16cd7e4e-b7/s1280x1920/e3dffa8b5a2ef5c5525246b49555ce39b9cc1ca6.gif" alt="spirited away gif" width=600>
+ </div> 
 </>
 
  <div style="display: inline_block"><br>

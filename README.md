@@ -24,7 +24,7 @@
     <img align="center" alt="C Plus Plus" height="30" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <img align="center" alt="Flutter" height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   </div>
 <br>
   <img src="https://komarev.com/ghpvc/?username=daniellberg&style=flat-square&color=blue" alt=""/> 

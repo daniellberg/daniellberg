@@ -15,7 +15,7 @@
  <div style="display: inline_block"><br>
   <div style="margin-bottom: 5px"> 
     <img align="center" alt="Js" height="30" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-    <img align="center" alt="React" height="30"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="React" height="30"  src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <br>
@@ -24,8 +24,7 @@
     <img align="center" alt="C Plus Plus" height="30" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <img align="center" alt="Flutter" height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-   	[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+    <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white))">
   </div>
 <br>
   <img src="https://komarev.com/ghpvc/?username=daniellberg&style=flat-square&color=blue" alt=""/> 

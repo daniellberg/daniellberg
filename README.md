@@ -46,9 +46,6 @@ Find me on
   </a>
   <a href="https://open.spotify.com/user/brokencraft?si=3030ca7db8d14a57">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a><br>
-      <a href="https://www.instagram.com/ydanielberg">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badhe"/>
   </a>
   <a href="https://www.freecodecamp.org/ydanielberg">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCode Camp Badge"/>

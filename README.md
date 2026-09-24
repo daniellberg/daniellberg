@@ -14,19 +14,20 @@
  <div style="display: inline_block"><br>
   <div style="margin-bottom: 5px">
     <img align="center" alt="C" height="30" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-    <img align="center" alt="Cpp" height="30" src="[https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="Cpp" height="30" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
     <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
      <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
     <img align="center" alt="C sharp" height="30" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">
     <img align="center" alt="Next" height="30" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
     <img align="center" alt="React" height="30"  src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     <br>
-    
+    <!--
     <img align="center" alt="C Plus Plus" height="30" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <img align="center" alt="Flutter" height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Unreal" height="30" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+    <img align="center" alt="Unreal" height="30" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"> -->
   </div>
+ 
 <br>
   <img src="https://komarev.com/ghpvc/?username=daniellberg&style=flat-square&color=blue" alt=""/> 
   <br>
@@ -48,6 +49,9 @@ Find me on
   </a>
   <a href="https://open.spotify.com/user/brokencraft?si=3030ca7db8d14a57">
     <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)" alt="Spotify Badge"/>
+  </a>
+  <a href="https://www.last.fm/user/witnessaoty">
+    <img src="https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)" alt="Last Fm Badge"/>
   </a>
   <a href="https://www.freecodecamp.org/ydanielberg">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCode Camp Badge"/>

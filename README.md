@@ -32,9 +32,6 @@
 <a href="https://www.linkedin.com/in/daniel-berg-060a9019b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.youtube.com/channel/UCm9uZ9v7uYDnfSOrgflHeBw">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
 <a href="https://open.spotify.com/user/brokencraft?si=3030ca7db8d14a57">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
 </a>

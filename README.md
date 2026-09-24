@@ -4,27 +4,28 @@
 
 <h2>Hi, there!<br>My name is Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h2>
 
-<!-----
+<h3>Find me here! <img align="center" alt="Last fm" height="30" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)">
+
 
  <div align="center"> <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" alt="spirited away gif">
 </div> 
-
------>
 </>
 
  <div style="display: inline_block"><br>
-  <div style="margin-bottom: 5px"> 
-    <img align="center" alt="Js" height="30" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+  <div style="margin-bottom: 5px">
+    <img align="center" alt="C" height="30" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+    <img align="center" alt="Cpp" height="30" src="[https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+     <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+    <img align="center" alt="C sharp" height="30" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white">
+    <img align="center" alt="Next" height="30" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
     <img align="center" alt="React" height="30"  src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-    <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <br>
-    <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img align="center" alt="C sharp" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    
     <img align="center" alt="C Plus Plus" height="30" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <img align="center" alt="Flutter" height="30"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="My SQL" height="30" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white))">
+    <img align="center" alt="Unreal" height="30" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
   </div>
 <br>
   <img src="https://komarev.com/ghpvc/?username=daniellberg&style=flat-square&color=blue" alt=""/> 
@@ -46,7 +47,7 @@ Find me on
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://open.spotify.com/user/brokencraft?si=3030ca7db8d14a57">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)" alt="Spotify Badge"/>
   </a>
   <a href="https://www.freecodecamp.org/ydanielberg">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCode Camp Badge"/>
